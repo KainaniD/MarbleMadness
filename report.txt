@@ -1,0 +1,16 @@
+1. 
+Player Avatar & Goodie Control Flow
+
+I utilized the starter code that was given to us as a reference.
+
+The colocation of the player and a goodie was checked using a helper function in the student world class.
+
+If the goodie finds that the student world class's function to check if a colocated player is on that goodie returns true, then:
+	- a sound is played from the game world function
+	- the score is increased based on a private member variable in the PickupableItem class
+	- the goodie's action is performed based on a private virtual function which is further defined in the types of goodies 
+	- the goodie is set as dead
+
+
+2. N/A
+3. N/A
